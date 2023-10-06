@@ -16,4 +16,4 @@ I am also interested in data science. Though I have no formal training in the su
 
 **X(formerly known as Twitter)**: [@mackwhite1994](https://twitter.com/mackwhite1994)
 
-Though I do not have a personal website at the moment, feel free to check out the [website](https://mackwhite.github.io/cndwg_website/)I am developing (in progress) for our synthesis team looking at the consumer nutrient dynamics of marine ecosystems under the wake of global change.
+Though I do not have a personal website at the moment, feel free to check out the [website](https://mackwhite.github.io/cndwg_website/) I am developing (*in progress*) for our synthesis team looking at the consumer nutrient dynamics of marine ecosystems under the wake of global change.
