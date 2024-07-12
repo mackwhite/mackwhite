@@ -15,4 +15,5 @@ I am also interested in data science. Though I have no formal training in the su
 ### **Social Media**
 
 **X(formerly known as Twitter)**: [@mackwhite1994](https://x.com/mackwhite_eco)
+
 **Website(s)**: Please feel free to visit my [personal website](https://mackwhite.github.io/website/), as well as the website I developed for the  synthesis working group I am currently leading [here](https://mackwhite.github.io/cndwg_website/) - though the synthesis website is certainly a work in progress!
