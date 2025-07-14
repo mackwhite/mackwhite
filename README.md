@@ -6,7 +6,7 @@ I am a PhD Candidate at Florida International University (FIU) working with Dr. 
 
 ### **Research Interests**
 
-I am an ecologist that spends most of their time thinking about animal behavior (drivers and function; strong opinion). However, I truly enjoy thinking about any interesting ecological question. My research asks questions across levels of ecological organization – from individuals to ecosystems – in hopes of providing a more holistic understanding of the natural world that informs management, as well as theory.
+I am an ecologist that spends most of their time thinking about animal behavior (drivers and function). However, I truly enjoy thinking about any interesting ecological question. My research asks questions across levels of ecological organization – from individuals to ecosystems – in hopes of providing a more holistic understanding of the natural world that informs management, as well as theory.
 
 ![](https://github.com/mackwhite/mackwhite/blob/main/fish.gif)
 
