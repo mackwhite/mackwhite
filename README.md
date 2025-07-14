@@ -6,14 +6,14 @@ I am a PhD Candidate at Florida International University (FIU) working with Dr. 
 
 ### **Research Interests**
 
-I am an ecologist interested in the drivers of ecosystems across various scales (from individuals to ecosystems). My research currently revolves around further understanding the contextual roles of animals in the cycling of nutrients and flow of energy within and across ecosystems. By combining field, experimental, and modeling techniques, I aim to bridge theories across different ecological disciplines to provide novel insights. The goal of my research is to provide a more holistic understanding of the natural world that informs conservation and management efforts.
+I am an ecologist that spends most of their time thinking about animal behavior (drivers and function; strong opinion). However, I truly enjoy thinking about any interesting ecological question. My research asks questions across levels of ecological organization – from individuals to ecosystems – in hopes of providing a more holistic understanding of the natural world that informs management, as well as theory.
 
 ![](https://github.com/mackwhite/mackwhite/blob/main/fish.gif)
 
-I am also interested in data science. Though I have no formal training in the subject, I enjoy developing reproducible workflows, creating aesthetically-pleasing data visualizations, and striving to maintain [FAIR](https://www.go-fair.org/fair-principles/) data.
+I am also interested in data science. Though I have no formal training in the subject, I enjoy developing reproducible workflows, creating aesthetically-pleasing data visualizations, and striving to maintain [FAIR](https://www.go-fair.org/fair-principles/) data. 
 
 ### **Social Media**
 
 **Bluesky**: [@mackeco.bsky.social](https://bsky.app/profile/mackeco.bsky.social)
 
-**Website(s)**: Please feel free to visit my [personal website](https://mackwhite.github.io/), as well as the website I developed for the synthesis working group I am currently leading [here](https://mackwhite.github.io/cndwg_website/) - though the synthesis website is certainly a work in progress!
+**Website(s)**: Please feel free to visit my [personal website](https://mackwhite.github.io/) to learn more about my research :)
